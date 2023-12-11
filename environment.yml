@@ -101,4 +101,3 @@ dependencies:
       - pyswarms==1.3.0
       - stingray==1.1.2.4
       - tqdm==4.66.1
-prefix: /Users/ingasaathoff/anaconda3/envs/pcva
